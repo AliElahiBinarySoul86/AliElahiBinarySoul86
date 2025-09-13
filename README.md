@@ -13,4 +13,4 @@ Solidity | Remix IDE | Smart Contracts | ERC-20 | ERC-721 | DAO | GitHub | Web3
 
 ## 📫 Contact Me
 - 📧 Email: alielahi8607@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/ali-chain](https://linkedin.com/in/ali-chain)
+- 💼 LinkedIn: [https://www.linkedin.com/in/binary-soul-elahi-qorbani-689945383/](https://www.linkedin.com/in/binary-soul-elahi-qorbani-689945383/)
