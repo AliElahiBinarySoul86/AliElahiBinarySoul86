@@ -9,7 +9,7 @@
 - 🗳️ [BinaryDAO](https://github.com/AliChain2025/binary-dao): DAO Voting System
 
 ## 📚 Skills
-Solidity Remix IDE Smart Contracts ERC-20 ERC-721 DAO GitHub Web3
+Solidity | Remix IDE | Smart Contracts | ERC-20 | ERC-721 | DAO | GitHub | Web3
 
 ## 📫 Contact Me
 - 📧 Email: alielahi8607@gmail.com  
